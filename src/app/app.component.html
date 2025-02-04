@@ -1,0 +1,22 @@
+
+<ul>
+
+@for(photo of photos; track photo.id){
+
+    <li>
+      <p>Images numero : {{photo.id}}</p>
+      <img [src]="photo.link" alt="foot" />
+      
+    </li>
+
+}
+</ul>
+
+<div>
+  <p>imagen desde imagekit</p>
+  <img src="https://ik.imagekit.io/2h2ezjqty/20181125_182556.jpg?updatedAt=1738601320291" alt="">
+</div>
+
+
+<router-outlet />
+

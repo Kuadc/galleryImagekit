@@ -1,0 +1,20 @@
+{
+  "photos": [
+    {
+      "id": 1,
+      "link": "https://ik.imagekit.io/2h2ezjqty/20181125_182601.jpg?tr:w-50,h-50"
+    },
+    {
+      "id": 2,
+      "link": "https://ik.imagekit.io/2h2ezjqty/20181125_182716.jpg?updatedAt=1738601319973"
+    },
+    {
+      "id": 3,
+      "link": "https://ik.imagekit.io/2h2ezjqty/20181125_182601.jpg?updatedAt=1738601320144"
+    },
+    {
+      "id": 4,
+      "link": "https://ik.imagekit.io/2h2ezjqty/default-image.jpg?updatedAt=1738597059899"
+    }
+  ]
+}
